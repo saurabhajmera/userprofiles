@@ -1,0 +1,22 @@
+{
+  "name": "userprofiles",
+  "version": "1.0.0",
+  "description": "a simple crud REST API for managing user profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhajmera/userprofiles.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Saurabh Ajmera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhajmera/userprofiles/issues"
+  },
+  "homepage": "https://github.com/saurabhajmera/userprofiles#readme"
+}
